@@ -23,7 +23,7 @@ startup {
             }
         }	
 }
-	//start the timer if round had changed above 0
+	// start the timer if round had changed above 0
 	start
 	{
 		if (current.roundNumber > 0){
@@ -31,7 +31,7 @@ startup {
 		}
 	}
 	
-	//reset the timer if round has been reset back to 0
+	// reset the timer if round has been reset back to 0
 	reset
 	{
 		if (current.frame == 0){
@@ -39,7 +39,7 @@ startup {
 		}
 	}
 	
-	//check if the game is paused using the entitysnapshot address
+	// check if the game is paused using the entitysnapshot address
 	isLoading
 	{
 		if (current.frame == old.frame){
@@ -49,11 +49,11 @@ startup {
 		}
 	}
 	
-	//fixes the timer and makes it accurate for game time in livesplit
+	// fixes the timer and makes it accurate for game time in livesplit
 	gameTime
 	{
 		if (current.frame > old.frame){
-			//stolen gametime conversion from the BO2 synchronized livesplit (https://github.com/HuthTV/BO2-ZM-Synchronized-Livesplit)
+			// stolen gametime conversion from the BO2 synchronized livesplit (https://github.com/HuthTV/BO2-ZM-Synchronized-Livesplit)
 			return TimeSpan.FromMilliseconds(current.frame - vars.startFrame);
 		}
 	}
