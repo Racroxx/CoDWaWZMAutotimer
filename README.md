@@ -20,4 +20,8 @@ add auto splitting functionalities (automatically split on when round changes to
 
 find round memory addresses for nacht and verruckt and add auto timing functionality to them
 
+# Credits
+
+[HuthTV's BO2 autotimer](https://github.com/HuthTV/BO2-ZM-Synchronized-Livesplit) for the gametime conversion (because i got bored of trying to fix it lol)
+
 
