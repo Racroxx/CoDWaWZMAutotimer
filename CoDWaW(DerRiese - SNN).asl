@@ -39,7 +39,7 @@ startup {
 		}
 	}
 	
-	// check if the game is paused using the entitysnapshot address
+	// check if the game is paused using the frame address
 	isLoading
 	{
 		if (current.frame == old.frame){
