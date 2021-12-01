@@ -21,7 +21,7 @@ side note: your split times MUST be set in the game time tab ( Edit Splits -> Ga
 add auto splitting functionalities (automatically split on when round changes to what round you have in your own split file)
 
 
-find round memory addresses for nacht and verruckt and add auto timing functionality to them
+<s> find round memory addresses for nacht and verruckt and add auto timing functionality to them </s> (used snapshot entities to start timer (inacurrate on nacht but works fine on verruckt) 
 
 # Credits
 
