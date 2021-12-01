@@ -1,4 +1,4 @@
-# CoDWaW-DerRiese-SNN-autotimer
+# CoDWaWZMAutotimer
 
 a livesplit auto timer for Call of Duty: World at War Zombies (Only Der Riese and SNN for now.)
 
