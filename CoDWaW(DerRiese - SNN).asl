@@ -23,7 +23,7 @@ startup {
             }
         }	
 }
-	// start the timer if round had changed above 0
+	// start the timer if round has changed above 0
 	start
 	{
 		if (current.roundNumber > 0){
