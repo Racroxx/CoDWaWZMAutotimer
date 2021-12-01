@@ -9,3 +9,6 @@ open LiveSplit.exe and right click timer
 
 
 select Edit Layout -> click the plus sign -> Control -> Scriptable Auto Splitter
+
+
+double click Scriptable Auto Splitter tab. select the asl file.
