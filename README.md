@@ -5,7 +5,7 @@ a livesplit auto timer for Call of Duty: World at War Zombies (Only Der Riese an
 # Configuration
 
 
-Open LiveSplit.exe and right click timer
+open LiveSplit.exe and right click timer
 
 
-Select Edit Layout -> Add Component (plus sign) -> Control -> Scriptable Auto Splitter
+select Edit Layout -> click the plus sign -> Control -> Scriptable Auto Splitter
