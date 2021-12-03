@@ -12,9 +12,6 @@ open LiveSplit.exe and right click timer
 select Edit Layout -> click the plus sign -> Control -> Scriptable Auto Splitter
 
 
-double click Scriptable Auto Splitter tab. select the asl file. (use the der riese/snn asl file for a more accurate timing method that starts the timer when round 1 is loaded into memory)
-
-
 # TODO
 
 add auto splitting functionalities (automatically split on when round changes to what round you have in your own split file)
