@@ -15,8 +15,6 @@ select Edit Layout -> click the plus sign -> Control -> Scriptable Auto Splitter
 double click Scriptable Auto Splitter tab. select the asl file. (use the der riese/snn asl file for a more accurate timing method that starts the timer when round 1 is loaded into memory)
 
 
-side note: your split times MUST be set in the game time tab ( Edit Splits -> Game Time tab (just CTRL+C all your times from real time to game time tab) )
-
 # TODO
 
 add auto splitting functionalities (automatically split on when round changes to what round you have in your own split file)
