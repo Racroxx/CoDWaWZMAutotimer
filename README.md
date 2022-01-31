@@ -24,5 +24,3 @@ add auto splitting functionalities (automatically split on when round changes to
 # Special thanks
 
 [5and5 for his forked bo1 autotimer script.](https://github.com/5and5/LiveSplitAutoSplitterForBlackOpsZombies)
-
-[strett for the original bo1 autotimer script.](https://github.com/strett/LiveSplitAutoSplitterForBlackOpsZombies)
