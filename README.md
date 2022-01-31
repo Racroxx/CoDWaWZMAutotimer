@@ -20,3 +20,8 @@ add auto splitting functionalities (automatically split on when round changes to
 <s> find round memory addresses for nacht and verruckt and add auto timing functionality to them </s>
 
 <s> add automatic pausing </s>
+
+# Special thanks
+
+[5and5 for his forked bo1 autotimer script.] (https://github.com/5and5/LiveSplitAutoSplitterForBlackOpsZombies)
+[strett for the original bo1 autotimer script.] (https://github.com/strett/LiveSplitAutoSplitterForBlackOpsZombies)
