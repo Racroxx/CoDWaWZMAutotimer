@@ -19,4 +19,4 @@ add auto splitting functionalities (automatically split on when round changes to
 
 <s> find round memory addresses for nacht and verruckt and add auto timing functionality to them </s> ( used snapshot entities to start timer (inaccurate on nacht but works fine on verruckt) )
 
-add automatic pausing
+<s> add automatic pausing </s>
