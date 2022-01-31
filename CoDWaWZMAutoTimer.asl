@@ -7,6 +7,13 @@ state ("CoDWaW")
 		int game_paused: 0x1BBA94 , 0x0;
 	}
 	
+	state ("plutonium-bootstrapper-win32")
+	{
+		int roundNumber: 0x23E3FC , 0xFAC;
+		int timer: 0x08EC44 , 0x0;
+		int game_paused: 0x1BBA94 , 0x0;
+	}
+	
 	startup
 {
 
